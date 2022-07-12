@@ -1,5 +1,10 @@
 Maths
 =====
+.. autosummary::
+   :toctree: generated
+
+   lumache
+
 
 Ambient Sea has a basic math library, which supports most math functions such as addition, subtraction, multiplication, division, indices, and grouping
 
@@ -18,3 +23,13 @@ For example:
 (18)
 >>> 4 / 8
 (0.5)
+
+
+To perform indices, use the Caret symbol (`^`)
+
+For example:
+
+>>> 3 ^ 2
+(9)
+>>> 6 ^ 4
+(1296)
