@@ -3,7 +3,7 @@ Welcome to Lumache's documentation!
 .. autosummary::
    :toctree: generated
 
-   lumache
+   Ambient Sea
 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
