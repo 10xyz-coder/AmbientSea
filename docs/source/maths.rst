@@ -3,7 +3,7 @@ Maths
 .. autosummary::
    :toctree: generated
 
-   lumache
+   Ambient Sea
 
 
 Ambient Sea has a basic math library, which supports most math functions such as addition, subtraction, multiplication, division, indices, and grouping
