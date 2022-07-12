@@ -1,5 +1,10 @@
 Welcome to Lumache's documentation!
 ===================================
+.. autosummary::
+   :toctree: generated
+
+   lumache
+
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
